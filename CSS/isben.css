@@ -1,0 +1,37 @@
+
+.speech {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px; 
+    color: black;
+  }
+  
+
+  .direction {
+    font-family: Georgia, Times New Roman, serif; 
+    font-size: 14px;
+    color: black;
+    background-color: lightgray;
+  }
+  
+
+  .direction:hover {
+    background-color: white; 
+    color: black; 
+  }
+
+  .kaia {
+    font-size: 20px;
+    color: orange;
+  }
+  
+  .solness {
+    font-size: 20px;
+    color: lightskyblue;
+  }
+  
+  .mrsSolness {
+    font-size: 20px;
+    color: purple; 
+  }
+
+  
