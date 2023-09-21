@@ -3,4 +3,6 @@
 A practice assignment for HTML with CSS
 Hosted at 
 https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-dearbishal/tree/main
+
+This is my file location I got confused so i posted both.
 file:///C:/Users/s545393/Desktop/webapps-repos/44563-webapps-f23-assignment4-dearbishal/playpart.html
