@@ -13,10 +13,9 @@
     background-color: lightgray;
   }
   
-
   .direction:hover {
     background-color: white; 
-    color: black; 
+    color: black;
   }
 
   .kaia {
@@ -34,16 +33,21 @@
     color: purple; 
   }
 
+  .kaia:hover,.solness:hover,.mrsSolness:hover {
+  box-shadow: 4px 4px 10px rgba(133, 88, 117, 0.5);
+  border: 2px solid #094509;
+
+
   table { border: dashed 3px;
     overflow: auto;
     border-collapse: separate;}
-table.collapsing { border: solid 3px;
+  table.collapsing { border: solid 3px;
     border-collapse: collapse;
     outline: solid 2px lightblue;}
-td, th {border: solid 1px;
+  td, th {border: solid 1px;
     text-align: center;}
-tr {background-color: lightgreen;}
-tr:nth-child(even) {background-color: #e2e2e2;}
+  tr {background-color: lightgreen;}
+  tr:nth-child(even) {background-color: #e2e2e2;}
 
 
 
